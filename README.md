@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://ragmon.nl" target="_blank">
-<img src="https://www.google.com/search?q=https://placehold.co/1200x300/10B981/F9FAFB%3Ftext%3DRahimov%2BDevelopment" alt="Rahimov Development Banner">
+<img src="https://www.google.com/search?q=https://placehold.co/1200x300/111827/10B981%3Ftext%3DRahimov%2BDevelopment" alt="Rahimov Development Banner">
 </a>
 </div>
 
