@@ -43,7 +43,7 @@ DevOps & Tools
 
 Frontend & Other
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/php-%2523777BB4.svg%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite" alt="PHP">
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/mysql-%252300f.svg%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" alt="MySQL">
 
