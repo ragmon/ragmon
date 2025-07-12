@@ -9,7 +9,7 @@
 
 <p align="center">
 <a href="https://ragmon.nl" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-10B981%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Website">
+<img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=googlechrome&color=green" alt="Website">
 </a>
 <a href="https://www.linkedin.com/in/arthur-rahimov" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
