@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://ragmon.nl" target="_blank">
-<img src="https://raw.githubusercontent.com/ragmon/ragmon/main/assets/banner.png" alt="Rahimov Development Banner">
+<img src="https://raw.githubusercontent.com/ragmon/ragmon/main/assets/banner.jpeg" alt="Rahimov Development Banner">
 </a>
 </div>
 
