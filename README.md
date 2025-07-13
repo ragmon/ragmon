@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://ragmon.nl" target="_blank">
-<img src="https://raw.githubusercontent.com/ragmon/ragmon/main/assets/banner.jpeg" alt="Rahimov Development Banner">
+<img src="https://raw.githubusercontent.com/ragmon/ragmon/main/assets/banner.jpeg" alt="Rahimov Development Banner" width="100%">
 </a>
 </div>
 
@@ -31,6 +31,13 @@ I'm a passionate ICT specialist with a strong background in backend development 
 📫 How to reach me: contact@ragmon.nl
 
 ⚡ Fun fact: When I'm not coding, I'm probably spending time with my cat, Milka, or exploring new worlds on my PlayStation.
+
+✅ What I Offer  
+- Custom Telegram bots with integrations  
+- Scalable backend services using Laravel/NestJS  
+- AI-powered automation for businesses  
+- Database design & optimization  
+- Dockerized microservices & CI/CD pipelines  
 
 🛠️ My Tech Stack  
 Here are the primary technologies I work with.
@@ -64,7 +71,8 @@ Here are the primary technologies I work with.
 
 
 📊 My GitHub Stats
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dragmon%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="ragmon's GitHub stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dragmon%26layout%3Dcompact%26langs_count%3D8%26theme%3Ddracula" alt="ragmon's top languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=ragmon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="ragmon's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragmon&layout=compact&langs_count=8&theme=dracula" alt="ragmon's top languages" />
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ragmon.ragmon)
+
