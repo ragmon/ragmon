@@ -81,5 +81,3 @@ I'm a passionate ICT specialist with a strong background in backend development 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragmon&layout=compact&langs_count=8&theme=dracula" alt="ragmon's top languages" />
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ragmon&theme=dracula" alt="GitHub Trophies">
-
