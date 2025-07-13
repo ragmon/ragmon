@@ -32,56 +32,36 @@ I'm a passionate ICT specialist with a strong background in backend development 
 
 ⚡ Fun fact: When I'm not coding, I'm probably spending time with my cat, Milka, or exploring new worlds on my PlayStation.
 
-🛠️ My Tech Stack
+🛠️ My Tech Stack  
 Here are the primary technologies I work with.
 
-Backend Development
+### Backend Development
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/TypeORM-262627?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM">
+<img src="https://img.shields.io/badge/REST%20API-orange?style=for-the-badge" alt="REST API">
+<img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white" alt="OpenAPI">
 
-Databases
+### Databases
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
 
-DevOps & Tools
+### DevOps & Tools
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+<img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=gitlab&logoColor=white" alt="CI/CD">
+<img src="https://img.shields.io/badge/n8n-1F8263?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
 
-Frontend & Other
+### Frontend & Other
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/docker-%25230db7ed.svg%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker">
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/javascript-%2523323330.svg%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3D%2523F7DF1E" alt="JavaScript">
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/laravel-%2523FF2D20.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlaravel%26logoColor%3Dwhite" alt="Laravel">
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/postgresql-%2523316192.svg%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL">
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/git-%2523F05033.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git">
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/vue.js-%252335495e.svg%3Fstyle%3Dfor-the-badge%26logo%3Dvuedotjs%26logoColor%3D%25234FC08D" alt="Vue.js">
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/nestjs-%2523E0234E.svg%3Fstyle%3Dfor-the-badge%26logo%3Dnestjs%26logoColor%3Dwhite" alt="NestJS">
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/TypeORM-262627%3Fstyle%3Dfor-the-badge%26logo%3Dtypeorm%26logoColor%3Dwhite" alt="TypeORM">
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CI%252FCD-2088FF%3Fstyle%3Dfor-the-badge%26logo%3Dgitlab%26logoColor%3Dwhite" alt="CI/CD">
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/html5-%2523E34F26.svg%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5">
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/API-REST-orange%3Fstyle%3Dfor-the-badge" alt="API">
-
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/bash-%25234EAA25.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgnu-bash%26logoColor%3Dwhite" alt="Bash">
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/css3-%25231572B6.svg%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3">
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/RabbitMQ-FF6600%3Fstyle%3Dfor-the-badge%26logo%3Drabbitmq%26logoColor%3Dwhite" alt="RabbitMQ">
-
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/OpenAPI-6BA539%3Fstyle%3Dfor-the-badge%26logo%3Dopenapi-initiative%26logoColor%3Dwhite" alt="OpenAPI">
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/n8n-1F8263%3Fstyle%3Dfor-the-badge%26logo%3Dn8n%26logoColor%3Dwhite" alt="n8n">
 
 📊 My GitHub Stats
 <p align="center">
