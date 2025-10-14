@@ -77,7 +77,7 @@ I'm a passionate ICT specialist with a strong background in backend development 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ragmon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="ragmon's GitHub stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ragmon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="ragmon's GitHub stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragmon&layout=compact&langs_count=8&theme=dracula" alt="ragmon's top languages" />
 </p>
 
