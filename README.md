@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/arthur-rahimov" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-10B981?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:contact@ragmon.nl">
+  <a href="mailto:info@ragmon.nl">
     <img src="https://img.shields.io/badge/Mail-10B981?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </p>
